@@ -6,3 +6,4 @@
 - Jane Doe
 - Derek Hardison
 - David Gibson
+- David Hooper
